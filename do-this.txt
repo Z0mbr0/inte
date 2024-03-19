@@ -1,0 +1,4 @@
+PORT=6969 pnpm start
+
+npm run format && pnpm run start
+
